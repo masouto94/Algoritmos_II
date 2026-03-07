@@ -1,0 +1,3 @@
+[submodule "eg-vehiculos-kotlin"]
+	path = eg-vehiculos-kotlin
+	url = git@github.com:uqbar-project/eg-vehiculos-kotlin.git
