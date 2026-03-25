@@ -1,3 +1,6 @@
 [submodule "eg-vehiculos-kotlin"]
 	path = eg-vehiculos-kotlin
 	url = git@github.com:uqbar-project/eg-vehiculos-kotlin.git
+[submodule "2026-smells-pizza-super-awesome-team"]
+	path = 2026-smells-pizza-super-awesome-team
+	url = git@github.com:algo2-unsam/2026-smells-pizza-super-awesome-team.git
